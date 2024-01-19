@@ -1,1 +1,3 @@
 Another file
+
+Changes for a new release
